@@ -8,3 +8,11 @@ Questo progetto raccoglie file e cartelle di un progeto universitario (corso di 
 ## ENG: Description
 This project is a collection of all files and folders used for a university study (Econometrics crouse) and analyzes the relationship between university students' perceived stress levels and lifestyle variables during the exam period. 
 A multiple linear regression model was built using Excel and Python on data collected through a form.
+
+<!--
+README.md    scrivi un’intro chiara sul progetto.
+dataset/     file .csv del questionario (convertito da excel)
+notebook/    notebook Python con codice e commenti.
+report/      PDF/doc dell’elaborato.
+img/         grafici (scatterplot, 3D, residuals...).
+-->

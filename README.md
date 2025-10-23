@@ -1,4 +1,4 @@
-# IT: Analisi del livello di stress durante le sessioni d'esami
+# IT: Analisi del livello di stress durante le sessioni d'esami - Regressione lineare
 
 ## Descrizione
 Questo progetto raccoglie i file e le cartelle di un lavoro universitario (corso di Econometria) che esplora la relazione tra il livello di stress percepito dagli studenti e alcune variabili come numero di esami sostenuti in una sessione e genere.  
@@ -7,7 +7,7 @@ Questo progetto raccoglie i file e le cartelle di un lavoro universitario (corso
 ## Obiettivo
 Costruire un modello di regressione lineare multipla per individuare i fattori che influenzano lo stress accademico.  
 
-**Nota**: Il dataset è stato ottenuto tramite questionario, il che può introdurre distorsioni statistiche. Le analisi analisi e le interpretazioni nel report hanno dunque una validità limitata ai fini di eventuali decisioni o policy accademiche.
+**Nota**: Il dataset è stato ottenuto tramite questionario, il che può introdurre distorsioni statistiche. Le analisi e le interpretazioni nel report hanno dunque una validità limitata ai fini di eventuali decisioni o policy accademiche.
 
 ## Contenuto del repo
 - [Report finale (PDF)](https://github.com/krssclaire/regression-model-exams-stress-study/blob/main/report/report_reg_stress-esami.pdf)
@@ -24,7 +24,7 @@ Costruire un modello di regressione lineare multipla per individuare i fattori c
 3. Esegui il notebook per ottenere grafici e modelli
 
 
-# ENG: Stress levels during uiversity exam sessions — Regression analysis
+# ENG: Stress levels during uiversity exam sessions - Regression analysis
 
 ## Overview
 This repository contains all the materials of a university project (Econometrics course), exploring the relationship between perceived stress levels among students and variables such as the number of exams taken during an exam session and gender.  
